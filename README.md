@@ -6,10 +6,12 @@ The purpose of this analysis was to evaluate whether paid reviews create a bias 
 
 ## Results
 -There were a total of 90 Paid and ~37,000 unpaid reviews.
+
 ![PaidUnpaidCount.PNG](https://github.com/crabrandoom/Amazon_Vine_Analysis/blob/main/PaidUnpaidCount.PNG)
 
 -There were a total of 44 paid 5 star reviews and 14,700 unpaid 5 star reviews
-![UnpaidFiveStars.PNG](https://github.com/crabrandoom/Amazon_Vine_Analysis/blob/main/UnpaidFiveStars.PNG)
+
+![UpaidFiveStars.PNG](https://github.com/crabrandoom/Amazon_Vine_Analysis/blob/main/UpaidFiveStars.PNG)
 ![PaidFiveStars.PNG](https://github.com/crabrandoom/Amazon_Vine_Analysis/blob/main/PaidFiveStars.PNG)
 
 - The percentage of unpaid 5 Star reviews was 14,700/ 37,000 or 39.7%
